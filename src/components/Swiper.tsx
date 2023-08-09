@@ -46,84 +46,84 @@ export default function SwiperComponent() {
                 <SwiperSlide>
                     <Image
                         src={slider1}
-                        alt="Jogador de Paintball de frente, equipado de roupa e máscara, empunhando um marcador"
+                        alt="Jogador de Paintball de frente, equipado de roupa e máscara, empunhando um marcador."
                         className='w-full h-full block object-cover'
                     />
                 </SwiperSlide>
                 <SwiperSlide>
                     <Image
                         src={slider2}
-                        alt="Logo Comando 081"
+                        alt="Jogador de Paintball mirando, posicionado com marcador em mãos."
                         className='w-full h-full block object-cover'
                     />
                 </SwiperSlide>
                 <SwiperSlide>
                     <Image
                         src={slider3}
-                        alt="Logo Comando 081"
+                        alt="Vários jogadores invadindo e cobrindo uma área."
                         className='w-full h-full block object-cover'
                     />
                 </SwiperSlide>
                 <SwiperSlide>
                     <Image
                         src={slider4}
-                        alt="Logo Comando 081"
+                        alt="Jogador profissional posicionado atrás do bunker."
                         className='w-full h-full block object-cover'
                     />
                 </SwiperSlide>
                 <SwiperSlide>
                     <Image
                         src={slider5}
-                        alt="Logo Comando 081"
+                        alt="Jogador empunhando marcador avançando de frente."
                         className='w-full h-full block object-cover'
                     />
                 </SwiperSlide>
                 <SwiperSlide>
                     <Image
                         src={slider6}
-                        alt="Logo Comando 081"
+                        alt="Jogador atirando atrás de obstaculo de pneus."
                         className='w-full h-full block object-cover'
                     />
                 </SwiperSlide>
                 <SwiperSlide>
                     <Image
                         src={slider7}
-                        alt="Logo Comando 081"
+                        alt="Jogador mirando atrás de uma árvore."
                         className='w-full h-full block object-cover'
                     />
                 </SwiperSlide>
                 <SwiperSlide>
                     <Image
                         src={slider8}
-                        alt="Logo Comando 081"
+                        alt="Grupo de jogadores reunidos para foto dos times juntos."
                         className='w-full h-full block object-cover'
                     />
                 </SwiperSlide>
                 <SwiperSlide>
                     <Image
                         src={slider9}
-                        alt="Logo Comando 081"
+                        alt="Jogadora empunhando na mão direita um marcador réplica, vestida de macacão com capuz e colete."
                         className='w-full h-full block object-cover'
                     />
                 </SwiperSlide>
                 <SwiperSlide>
                     <Image
                         src={slider10}
-                        alt="Logo Comando 081"
+                        alt="Jogador mirando atrás de coluna, com macacão, capuz e colete."
                         className='w-full h-full block object-cover'
                     />
                 </SwiperSlide>
                 <SwiperSlide>
                     <Image
                         src={slider11}
-                        alt="Logo Comando 081"
+                        alt="Jogadora deitada no chão observando, equipada com macacão, máscara e marcador."
                         className='w-full h-full block object-cover'
                     />
                 </SwiperSlide>
                 <SwiperSlide>
                     <Image
                         src={slider12}
-                        alt="Logo Comando 081"
+                        alt="Jogador do meio do campo andando sorrateiro, próximo a um carretel de fios enorme."
                         className='w-full h-full block object-cover'
                     />
                 </SwiperSlide>

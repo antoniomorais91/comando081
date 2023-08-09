@@ -36,6 +36,7 @@ export default function SwiperComponent() {
                 <SwiperSlide>
                     <Image
                         src={slider1}
+                        title="Banner Piedade com equipamentos e valores do campo, mínimo de jogadores, extras e equipamentos próprios."
                         alt="Banner Piedade com equipamentos e valores do campo, mínimo de jogadores, extras e equipamentos próprios."
                         className='w-full h-full block object-fill'
                     />
@@ -43,6 +44,7 @@ export default function SwiperComponent() {
                 <SwiperSlide>
                     <Image
                         src={slider2}
+                        title="Banner Peixinhos com equipamentos e valores do campo, mínimo de jogadores, extras e equipamentos próprios."
                         alt="Banner Peixinhos com equipamentos e valores do campo, mínimo de jogadores, extras e equipamentos próprios."
                         className='w-full h-full block object-fill'
                     />
@@ -50,6 +52,7 @@ export default function SwiperComponent() {
                 <SwiperSlide>
                     <Image
                         src={slider3}
+                        title="Banner Maria Farinha com equipamentos e valores do campo, mínimo de jogadores, extras e equipamentos próprios."
                         alt="Banner Maria Farinha com equipamentos e valores do campo, mínimo de jogadores, extras e equipamentos próprios."
                         className='w-full h-full block object-fill'
                     />
