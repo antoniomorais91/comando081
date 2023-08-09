@@ -3,7 +3,7 @@ import MapItem from "./MapItem";
 
 export default function Maps() {
 
-    function loadMap() {
+    function LoadMap() {
 
         const { isLoaded } = useLoadScript({
             googleMapsApiKey: process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY,
@@ -73,7 +73,7 @@ export default function Maps() {
                 backgroundImage: `url(bg_pattern.png)`
             }}
         >
-            {loadMap()}
+            {LoadMap()}
         </div>
     )
 
