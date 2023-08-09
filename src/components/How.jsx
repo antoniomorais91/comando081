@@ -12,7 +12,8 @@ export default function How() {
                 lg:flex-row lg:h-[91vh]
                 md:flex-col md:h-fit
                 sm:flex-col sm:h-fit  
-                xsm:flex-col xsm:h-fit             
+                xsm:flex-col xsm:h-fit
+                overflow-hidden             
             `}
             style={{
                 backgroundImage: `url(bg_pattern.png)`

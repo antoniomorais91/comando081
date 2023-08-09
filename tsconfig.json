@@ -18,6 +18,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src/components/Head.jsx", "src/components/Maps.jsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src/components/Head.jsx", "src/components/Maps.jsx", "src/components/How.jsx", "src/components/Header.jsx", "src/components/Footer.jsx", "src/components/Command.jsx", "src/components/Navbar.jsx", "src/components/Logo.jsx", "src/components/Icons.jsx", "src/components/Units.jsx", "src/components/Swiper2.jsx", "src/components/Swiper.tsx"],
   "exclude": ["node_modules"]
 }
