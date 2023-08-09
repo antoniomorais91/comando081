@@ -69,11 +69,11 @@ export default function MapItem(props: PropsMapItem) {
                         title={props.title}
                     >
                         <h3 className={`
-                        p-4 ${righteous.className} text-xl text-center text-white
-                        2xl:text-xl xl:text-xl lg:text-lg md:text-xl xsm:text-lg
-                        no-underline duration-300
-                        hover:scale-110 hover:text-yellow-400/80
-                `}>
+                            p-4 ${righteous.className} text-xl text-center text-white
+                            2xl:text-xl xl:text-xl lg:text-lg md:text-xl xsm:text-lg
+                            no-underline duration-300
+                            hover:scale-110 hover:text-yellow-400/80
+                        `}>
                             {props.adress}
                         </h3>
                     </Link>

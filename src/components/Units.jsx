@@ -25,7 +25,11 @@ export default function Units() {
                     Número mínimo de jogadores: 08 jogadores.<br />
                     Número máximo de jogadores: 12 jogadores.<br />
                 </p>
-                <hr className="h-[2px] rounded-3xl mx-72 bg-gradient-to-r from-white via-yellow-400 to-black" />
+                <hr className={`
+                    h-[2px] rounded-3xl mx-72 bg-gradient-to-r from-white via-yellow-400 to-black
+                    2xl:mx-64 xl:mx-56 lg:mx-40 md:mx-28 xsm:mx-20
+                    `}
+                />
                 <p className={`
                         p-4 py-9 ${inter.className} text-xl text-justify text-gray-200
                         2xl:text-lg xl:text-base lg:text-base md:text-base xsm:text-base
@@ -36,7 +40,11 @@ export default function Units() {
                     pix
                     ou link de pagamento online.
                 </p>
-                <hr className="h-[2px] rounded-3xl mx-72 bg-gradient-to-r from-white via-yellow-400 to-black" />
+                <hr className={`
+                    h-[2px] rounded-3xl mx-72 bg-gradient-to-r from-white via-yellow-400 to-black
+                    2xl:mx-64 xl:mx-56 lg:mx-40 md:mx-28 xsm:mx-20
+                    `}
+                />
                 <p className={`
                         p-4 py-9 ${inter.className} text-xl text-justify text-gray-200
                         2xl:text-lg xl:text-base lg:text-base md:text-base xsm:text-base
@@ -67,7 +75,11 @@ export default function Units() {
                     Número mínimo de jogadores: 12 jogadores.<br />
                     Número máximo de jogadores: 20 jogadores.<br />
                 </p>
-                <hr className="h-[2px] rounded-3xl mx-72 bg-gradient-to-r from-white via-yellow-400 to-black" />
+                <hr className={`
+                    h-[2px] rounded-3xl mx-72 bg-gradient-to-r from-white via-yellow-400 to-black
+                    2xl:mx-64 xl:mx-56 lg:mx-40 md:mx-28 xsm:mx-20
+                    `}
+                />
                 <p className={`
                         p-4 py-9 ${inter.className} text-xl text-justify text-gray-200
                         2xl:text-lg xl:text-base lg:text-base md:text-base xsm:text-base
@@ -78,7 +90,11 @@ export default function Units() {
                     pix
                     ou link de pagamento online.
                 </p>
-                <hr className="h-[2px] rounded-3xl mx-72 bg-gradient-to-r from-white via-yellow-400 to-black" />
+                <hr className={`
+                    h-[2px] rounded-3xl mx-72 bg-gradient-to-r from-white via-yellow-400 to-black
+                    2xl:mx-64 xl:mx-56 lg:mx-40 md:mx-28 xsm:mx-20
+                    `}
+                />
                 <p className={`
                         p-4 py-9 ${inter.className} text-xl text-justify text-gray-200
                         2xl:text-lg xl:text-base lg:text-base md:text-base xsm:text-base
@@ -103,7 +119,11 @@ export default function Units() {
                     Número mínimo de jogadores: 12 jogadores.<br />
                     Número máximo de jogadores: 20 jogadores.<br />
                 </p>
-                <hr className="h-[2px] rounded-3xl mx-72 bg-gradient-to-r from-white via-yellow-400 to-black" />
+                <hr className={`
+                    h-[2px] rounded-3xl mx-72 bg-gradient-to-r from-white via-yellow-400 to-black
+                    2xl:mx-64 xl:mx-56 lg:mx-40 md:mx-28 xsm:mx-20
+                    `}
+                />
                 <p className={`
                         p-4 py-9 ${inter.className} text-xl text-justify text-gray-200
                         2xl:text-lg xl:text-base lg:text-base md:text-base xsm:text-base
@@ -114,7 +134,11 @@ export default function Units() {
                     pix
                     ou link de pagamento online.
                 </p>
-                <hr className="h-[2px] rounded-3xl mx-72 bg-gradient-to-r from-white via-yellow-400 to-black" />
+                <hr className={`
+                    h-[2px] rounded-3xl mx-72 bg-gradient-to-r from-white via-yellow-400 to-black
+                    2xl:mx-64 xl:mx-56 lg:mx-40 md:mx-28 xsm:mx-20
+                    `}
+                />
                 <p className={`
                         p-4 py-9 ${inter.className} text-xl text-justify text-gray-200
                         2xl:text-lg xl:text-base lg:text-base md:text-base xsm:text-base

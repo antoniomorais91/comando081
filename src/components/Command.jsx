@@ -42,7 +42,11 @@ export default function Command() {
                     `}>Inicialmente com o nome de Power Paintball, a empresa foi fundada em 2008 por apaixonados pelo
                         esporte para ser um espaço de excelência na prática do paintball.
                     </p>
-                    <hr className="h-[2px] rounded-3xl mx-40 bg-gradient-to-r from-white via-yellow-400 to-black" />
+                    <hr className={`
+                        h-[2px] rounded-3xl mx-28 bg-gradient-to-r from-white via-yellow-400 to-black
+                        2xl:mx-28 xl:mx-28 lg:mx-20 md:mx-16 xsm:mx-14
+                        `}
+                    />
                     <p className={`
                         p-4 py-9 ${inter.className} text-xl text-justify text-gray-200
                         2xl:text-lg xl:text-base lg:text-base md:text-base xsm:text-base
@@ -50,7 +54,11 @@ export default function Command() {
                     `}>Ficamos sempre em locais de fácil acesso, e oferecemos aos nossos clientes e amigos sempre os
                         melhores equipamentos, acompanhado de um elevado atendimento que só nós oferecemos.
                     </p>
-                    <hr className="h-[2px] rounded-3xl mx-40 bg-gradient-to-r from-white via-yellow-400 to-black" />
+                    <hr className={`
+                        h-[2px] rounded-3xl mx-28 bg-gradient-to-r from-white via-yellow-400 to-black
+                        2xl:mx-28 xl:mx-28 lg:mx-20 md:mx-16 xsm:mx-14
+                        `}
+                    />
                     <p className={`
                         p-4 py-9 ${inter.className} text-xl text-justify text-gray-200
                         2xl:text-lg xl:text-base lg:text-base md:text-base xsm:text-base
@@ -78,7 +86,7 @@ export default function Command() {
                         width={'100%'}
                         height={'100%'}
                         controls
-                        />
+                    />
                 </div>
             </div>
         </div>
