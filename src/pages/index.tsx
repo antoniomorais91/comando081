@@ -31,8 +31,8 @@ export default function Home() {
         <meta property='og:description' 
         content='Website do melhor paintball de PE.' />
         <meta property='og:url' content='https://comando081.vercel.app/' />
-        <meta property='og:image' content='https://comando081.vercel.app/public/comando-thumbnail.png' />
-        <meta property='og:image:secure_url' content='https://comando081.vercel.app/public/comando-thumbnail.png' />
+        <meta property='og:image' content='/comando-thumbnail.png' />
+        <meta property='og:image:secure_url' content='/comando-thumbnail.png' />
         <meta property='og:image:type' content='image/png' />
         <meta property='og:image:width' content='400' />
         <meta property='og:image:height' content='300' />
